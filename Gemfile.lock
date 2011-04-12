@@ -1,0 +1,28 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    BlueCloth (1.0.1)
+    RedCloth (4.2.7)
+    haml (3.0.25)
+    libxml-ruby (1.1.4)
+    polyglot (0.3.1)
+    rack (1.2.2)
+    ratom (0.6.7)
+      libxml-ruby (>= 1.1.2)
+    soup (1.0.6)
+    treetop (1.4.9)
+      polyglot (>= 0.3.1)
+    vanilla (1.13.2)
+      BlueCloth (>= 1.0.0)
+      RedCloth (>= 4.1.1)
+      haml
+      rack (>= 0.9.1)
+      ratom (>= 0.3.5)
+      soup (>= 1.0.6)
+      treetop (>= 1.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  vanilla (= 1.13.2)
