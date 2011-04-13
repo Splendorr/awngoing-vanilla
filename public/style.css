@@ -42,7 +42,7 @@ a {
   margin: -4px -3px -2px -3px; }
   a:link, a:visited {
     color: #220f4e;
-    background-color: #cfbee7;
+    background-color: rgba(154, 48, 207, 0.12);
     text-shadow: 1px 1px 3px white; }
   a:hover, a:focus {
     color: white;
