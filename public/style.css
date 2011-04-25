@@ -17,6 +17,12 @@ h1, h2, h3, h4, h5, h6 {
 p {
   font-size: 1.1em; }
 
+pre {
+  font-family: inherit; }
+
+.footnote {
+  font-size: 0.9em; }
+
 #container {
   margin: 2em 2em 2em 4em;
   width: 960px; }
